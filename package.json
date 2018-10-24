@@ -1,0 +1,16 @@
+{
+  "name": "katilpromo-tv",
+  "version": "0.0.1",
+  "description": "Katilpromo Tv Türk Botu Eklerseniz Sevinirim .",
+  "main": "bot.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Katilpromo Tv",
+  "license": "ISC",
+  "keywords": [
+    "eğlence"
+  ]
+}
